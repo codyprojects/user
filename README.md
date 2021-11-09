@@ -1,6 +1,6 @@
 **Version 1.0.0**
 
-# user
+# Description
 - This is the user service module
 
 ## Contributors
