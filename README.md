@@ -1,3 +1,5 @@
+**Version 1.0.0**
+
 # user
 - This is the user service module
 
