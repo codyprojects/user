@@ -12,10 +12,10 @@
     <artifactId>user-api</artifactId>
 
     <properties>
-        <maven.compiler.source>16</maven.compiler.source>
-        <maven.compiler.target>16</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
 <!--        <springfox-version>3.0.0</springfox-version>-->
-        <springfox-version>2.9.2</springfox-version>
+        <springfox-version>3.0.0</springfox-version>
     </properties>
 
     <dependencies>
@@ -86,6 +86,14 @@
                         </configuration>
                     </execution>
                 </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>17</source>
+                    <target>17</target>
+                </configuration>
             </plugin>
         </plugins>
     </build>
