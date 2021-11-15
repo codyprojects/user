@@ -1,5 +1,7 @@
 # Related Issue
-- issue goes here
+- issue goes here 
+
+Fixes # (issue)
 
 # Proposed Changes
 - change 1
