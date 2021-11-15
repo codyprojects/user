@@ -1,7 +1,7 @@
 **Version 1.0.0**
 
 # Description
-- This is the user service module
+- This is the user service module for backgend
 
 ## Contributors
 - Cody Wang <wjing63@gmail.com>
